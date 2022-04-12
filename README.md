@@ -1,7 +1,10 @@
-![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbarrons&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbarrons&theme=dracula)](https://github.com/hbarrons/github-readme-stats)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hbarrons&show_icons=true&theme=dracula">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbarrons&theme=dracula">
+</p>
 
 # Proficiencies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
