@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hbarrons&show_icons=true&theme=synthwave&hide=stars,issues">
+  <img src="https://github-readme-stats.vercel.app/api?username=hbarrons&show_icons=true&theme=jolly&hide=stars,issues">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbarrons&theme=synthwave">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbarrons&theme=jolly">
 </p>
 
 # Proficiencies
